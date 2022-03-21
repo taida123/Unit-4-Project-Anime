@@ -1,0 +1,97 @@
+img {
+    height: 200px;
+    margin: 5px;
+}
+
+p {
+    font-family: cursive;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+    justify-content: space-around;
+}
+
+.Aanime {
+    margin: 5px;
+    border: 10px solid black;
+    padding: 5px;
+    width: 450px;
+    height: 400px;
+}
+
+.Banime {
+    margin: 5px;
+    border: 10px dashed grey;
+    padding: 5px;
+    width: 450px;
+    height: 400px;
+}
+
+.Canime {
+    margin: 5px;
+    border: 10px ridge #00FFCC;
+    padding: 10px;
+    width: 450px;
+    height: 400px;
+}
+
+.Danime {
+    margin: 5px;
+    border: 10px dotted orange;
+    padding: 10px;
+    width: 450px;
+    height: 400px;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max");
+    width: 500px;
+    display: flex;
+    align-content: center;
+}
+
+.box {
+    padding: 10px;
+    border: blue 20px;
+    margin: 20px;
+}
+
+
+.titles {
+    color: lightblue;
+}
+
+.mha {
+    color: green;
+    border: dashed lightgreen 5px;
+    padding: 10px;
+    margin: 5px;
+
+}
+
+.HxH {
+    color: green;
+    border: dashed yellow 5px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.JujutsuKaisen {
+    color: green;
+    border: dashed lightblue 5px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.DemonSlayer {
+    color: white;
+    border: dashed pink 5px;
+    padding: 10px;
+    margin: 5px;
+}
+
+a {
+    color: lightblue;
+    padding: 10px;
+}
